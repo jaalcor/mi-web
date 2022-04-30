@@ -5,28 +5,41 @@ body{
 .contenedor{
     width: 900px;
     height: 1000px;
+    padding: 0.5em;
+    margin: 0.5em auto;
 }
 .caja1{
     width: 900px;
-    height: 200px;px ;
+    height: 100px;px ;
     background-color: blue;
 }
 .caja2{
-    width: 400px;
-    height: 500px;
+    width: 250px;
+    height: 550px;
     background-color: rgb(255, 0, 0);
     float: left;
 }
 .caja3{
-    width: 500px;
-    height: 500px;
+    width: 599px;
+    height: 550px;
     background-color: green;
-    float: left;
+    float: right;
 }
 .caja4{
     width: 900px;
     height: 200px;
     background-color: purple;
+    float: left;
+ 
+}
+.articulo{
+    width: 550px;
+    height: 100px;
+    background-color: orange;
+    margin: 1em;
+    border-radius: 1em;
+    
+
 }
 
 
